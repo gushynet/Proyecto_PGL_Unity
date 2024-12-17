@@ -18,7 +18,7 @@ Este proyecto es una adaptación del juego "Roll-a-Ball" de Unity. Consiste en u
 
 1. Clona el repositorio en tu máquina local:
 
-	git clone https://github.com/tu-usuario/roll-a-ball.git
+	git clone https://github.com/gushynet/Proyecto_PGL_Unity.git
 	
 2. Abre el proyecto con Unity Hub:
 
